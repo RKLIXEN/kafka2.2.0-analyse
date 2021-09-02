@@ -25,3 +25,19 @@
       "font-hack-nerd-font": {
         "version": "2.2.2",
         "options": {
+          "full_name": "font-hack-nerd-font"
+        }
+      }
+    },
+    "brew": {
+      "memcached": {
+        "version": "1.6.17",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "arm64_ventura": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/memcached/blobs/sha256:23cb27638c5132b7cb1695140c220dd91caeb513a390c2b29483b42b1b1cad9e",
+              "sha256": "23cb27638c5132b7cb1695140c220dd91caeb513a390c2b29483b42b1b1cad9e"
+            },
