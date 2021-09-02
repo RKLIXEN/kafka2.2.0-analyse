@@ -1,0 +1,16 @@
+
+{
+  "entries": {
+    "tap": {
+      "homebrew/cask": {
+        "revision": "ff26c72e5f57392a9b16363a970a1ec2f5456bb8"
+      },
+      "homebrew/cask-fonts": {
+        "revision": "a2f77352fc72b02dd2a26900d93426a2bf6e85ac"
+      },
+      "homebrew/cask-versions": {
+        "revision": "be9e3eb1449dbd99c59816977d1df764bcd662f6"
+      },
+      "homebrew/services": {
+        "revision": "5aaabd01f249f0d04d2d4a746431f6c3e17accb5"
+      }
