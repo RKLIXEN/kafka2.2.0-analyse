@@ -114,3 +114,17 @@
               "cellar": "/usr/local/Cellar",
               "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:a5100cbb30a8e1d016246ae2d587b062c5ba0694164478048193810e9967997a",
               "sha256": "a5100cbb30a8e1d016246ae2d587b062c5ba0694164478048193810e9967997a"
+            },
+            "catalina": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:8072b65841307d16423b61d0b5232640d63519572553fd60d2dd81078b92e558",
+              "sha256": "8072b65841307d16423b61d0b5232640d63519572553fd60d2dd81078b92e558"
+            },
+            "x86_64_linux": {
+              "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:f79a5cd043c8f9e500a4f77c7b358f8e002983a0bf7710a4c3393f6c5a3dda17",
+              "sha256": "f79a5cd043c8f9e500a4f77c7b358f8e002983a0bf7710a4c3393f6c5a3dda17"
+            }
+          }
+        }
+      },
