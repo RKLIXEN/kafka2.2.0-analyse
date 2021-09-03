@@ -67,3 +67,13 @@
               "sha256": "6ba66bec380b965431dd5eb7ede1c71113aa4cc0e1c4ed3e9701c8be44ef963a"
             },
             "catalina": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/memcached/blobs/sha256:6c1ad74d6e75b2661089d75af1dc5bc532cc0fe6012daa851a9d2893afe78a2b",
+              "sha256": "6c1ad74d6e75b2661089d75af1dc5bc532cc0fe6012daa851a9d2893afe78a2b"
+            },
+            "x86_64_linux": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/memcached/blobs/sha256:6fabd84f6b09072e8a3f55db66c0416fa72934cc9ab0c10fa9be82f604b3349d",
+              "sha256": "6fabd84f6b09072e8a3f55db66c0416fa72934cc9ab0c10fa9be82f604b3349d"
+            }
+          }
