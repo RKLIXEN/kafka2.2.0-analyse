@@ -519,3 +519,19 @@
       "diff-so-fancy": {
         "version": "1.4.3",
         "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "all": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/diff-so-fancy/blobs/sha256:f92baad816aa7902f5fc7e4166f6234b37f8cf800d58546b79a070d5134e857c",
+              "sha256": "f92baad816aa7902f5fc7e4166f6234b37f8cf800d58546b79a070d5134e857c"
+            }
+          }
+        }
+      },
+      "git-extras": {
+        "version": "6.5.0",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
