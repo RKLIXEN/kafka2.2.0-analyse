@@ -1,3 +1,3 @@
 # My Dot Files
 
-Install home
+Install homebrew and git.
