@@ -3,4 +3,4 @@
 Install homebrew and git.
 
 ```bash
-# Ma
+# May want to check
