@@ -3,4 +3,5 @@
 Install homebrew and git.
 
 ```bash
-# May want to check brew.sh for updated home
+# May want to check brew.sh for updated homebrew installation
+/
