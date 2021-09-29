@@ -8,4 +8,7 @@ Install homebrew and git.
 brew install git
 ```
 
-Setup dot
+Setup dotfiles.
+
+```bash
+g
