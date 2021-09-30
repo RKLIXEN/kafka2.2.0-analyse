@@ -12,4 +12,5 @@ Setup dotfiles.
 
 ```bash
 git clone https://github.com/jnunemaker/dotfiles.git ~/.dotfiles
-~/.dotfiles/script/s
+~/.dotfiles/script/setup
+brew 
