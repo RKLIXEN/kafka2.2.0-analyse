@@ -11,4 +11,4 @@ brew install git
 Setup dotfiles.
 
 ```bash
-git clone https
+git clone https://github.com/j
