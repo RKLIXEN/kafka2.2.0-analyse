@@ -14,4 +14,4 @@ Setup dotfiles.
 git clone https://github.com/jnunemaker/dotfiles.git ~/.dotfiles
 ~/.dotfiles/script/setup
 brew bundle --global
-`
+```
