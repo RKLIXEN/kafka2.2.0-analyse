@@ -5,4 +5,5 @@
 [github]
 	user = jnunemaker
 [push]
-	defau
+	default = simple
+	a
