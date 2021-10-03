@@ -6,4 +6,4 @@
 	user = jnunemaker
 [push]
 	default = simple
-	a
+	autoSetupRemot
