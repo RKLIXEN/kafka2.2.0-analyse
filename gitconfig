@@ -7,4 +7,5 @@
 [push]
 	default = simple
 	autoSetupRemote = true
-[cr
+[credential]
+	helper = os
