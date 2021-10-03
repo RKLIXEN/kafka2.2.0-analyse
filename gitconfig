@@ -8,4 +8,5 @@
 	default = simple
 	autoSetupRemote = true
 [credential]
-	helper = os
+	helper = osxkeychain
+[a
