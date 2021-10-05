@@ -11,4 +11,5 @@
 	helper = osxkeychain
 [alias]
 	co = checkout
-  ci = com
+  ci = commit
+  st =
