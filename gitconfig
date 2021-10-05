@@ -10,4 +10,5 @@
 [credential]
 	helper = osxkeychain
 [alias]
-	co =
+	co = checkout
+  ci = com
