@@ -14,4 +14,5 @@
   ci = commit
   st = status
   br = branch
-  cp = che
+  cp = cherry-pick
+	lg = log
