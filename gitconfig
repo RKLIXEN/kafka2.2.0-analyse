@@ -13,4 +13,5 @@
 	co = checkout
   ci = commit
   st = status
-  br = bran
+  br = branch
+  cp = che
