@@ -15,4 +15,4 @@
   st = status
   br = branch
   cp = cherry-pick
-	lg = log --color --graph
+	lg = log --color --graph --pretty
