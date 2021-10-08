@@ -17,3 +17,4 @@
   cp = cherry-pick
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
         open = !open `git config remote.origin.url`
+  # Amend the la
