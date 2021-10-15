@@ -21,4 +21,4 @@
   amend = commit --amend -C HEAD
 
   # Undo the last commit, preserving the changes
-  undo = reset
+  undo = reset --soft HE
