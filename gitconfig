@@ -20,4 +20,4 @@
   # Amend the last commit
   amend = commit --amend -C HEAD
 
-  # Undo the last commit, 
+  # Undo the last commit, preserving
