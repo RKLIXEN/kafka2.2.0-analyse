@@ -23,4 +23,5 @@
   # Undo the last commit, preserving the changes
   undo = reset --soft HE
 
-  # Show number of commits by each 
+  # Show number of commits by each contributor
+  
