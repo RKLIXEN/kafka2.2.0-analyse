@@ -22,3 +22,5 @@
 
   # Undo the last commit, preserving the changes
   undo = reset --soft HE
+
+  # Show n
