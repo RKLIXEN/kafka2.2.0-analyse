@@ -24,4 +24,4 @@
   undo = reset --soft HE
 
   # Show number of commits by each contributor
-  
+  count = shortlog -sn
