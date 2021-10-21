@@ -26,4 +26,5 @@
   # Show number of commits by each contributor
   count = shortlog -sn
 
-  # List Recent Bra
+  # List Recent Branches
+  re
