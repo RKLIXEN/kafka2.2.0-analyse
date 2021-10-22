@@ -27,4 +27,4 @@
   count = shortlog -sn
 
   # List Recent Branches
-  re
+  recent = for-e
