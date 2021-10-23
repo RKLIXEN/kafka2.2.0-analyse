@@ -27,4 +27,4 @@
   count = shortlog -sn
 
   # List Recent Branches
-  recent = for-e
+  recent = for-each-ref --count=5
