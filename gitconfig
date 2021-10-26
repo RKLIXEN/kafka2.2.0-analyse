@@ -31,4 +31,5 @@
 
 [color]
   diff = auto
-  stat
+  status = auto
+ 
