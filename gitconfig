@@ -32,4 +32,5 @@
 [color]
   diff = auto
   status = auto
-  branch = 
+  branch = auto
+  in
