@@ -33,4 +33,5 @@
   diff = auto
   status = auto
   branch = auto
-  interactiv
+  interactive = auto
+  ui = 
