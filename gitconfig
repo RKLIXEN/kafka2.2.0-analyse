@@ -34,4 +34,5 @@
   status = auto
   branch = auto
   interactive = auto
-  ui = 
+  ui = true
+  pager 
