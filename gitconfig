@@ -37,4 +37,4 @@
   ui = true
   pager = true
 [core]
-  pager = diff-so-fancy |
+  pager = diff-so-fancy | less --
