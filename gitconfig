@@ -35,4 +35,5 @@
   branch = auto
   interactive = auto
   ui = true
-  pager 
+  pager = true
+[
