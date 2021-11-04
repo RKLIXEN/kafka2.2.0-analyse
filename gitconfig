@@ -42,4 +42,5 @@
   # Always prune remote branches when fetching
   prune = true
 [help]
-  autocorrect
+  autocorrect = 1
+[b
