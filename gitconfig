@@ -44,4 +44,4 @@
 [help]
   autocorrect = 1
 [branch]
-  autosetup
+  autosetuprebase = alwa
