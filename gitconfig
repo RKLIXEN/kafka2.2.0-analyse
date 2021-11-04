@@ -43,4 +43,5 @@
   prune = true
 [help]
   autocorrect = 1
-[b
+[branch]
+  autosetup
