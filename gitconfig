@@ -44,4 +44,5 @@
 [help]
   autocorrect = 1
 [branch]
-  autosetuprebase = alwa
+  autosetuprebase = always
+  autosetupmerg
