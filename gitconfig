@@ -42,4 +42,4 @@
   # Always prune remote branches when fetching
   prune = true
 [help]
-  a
+  autocorrect
