@@ -45,4 +45,4 @@
   autocorrect = 1
 [branch]
   autosetuprebase = always
-  autosetupmerg
+  autosetupmerge = true

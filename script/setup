@@ -1,0 +1,5 @@
+
+#!/bin/bash
+# Create symlinks for files in this directory in ~/
+
+set -e
