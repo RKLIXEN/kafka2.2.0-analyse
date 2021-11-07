@@ -15,3 +15,15 @@ if [ ! -d ~/.oh-my-zsh ]; then
 fi
 
 backup=~/.dotfiles-backup/$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+mkdir -p $backup
+
+echo -e "Installing dotfiles..."
+# move any existing dotfiles in homedir to dotfiles_old directory, then create symlinks
+for file in *; do
+  # Skip scripts and text files
+  echo $file | egrep -q '(^script$|\.txt$|\.md|\.json$)' && continue
+
+  if [ -e ~/.$file ]; then
+    mv ~/.$file $backup
+  fi
+  echo "Symlinking $file to ~/.$file"
