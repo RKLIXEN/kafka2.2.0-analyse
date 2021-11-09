@@ -27,3 +27,13 @@ for file in *; do
     mv ~/.$file $backup
   fi
   echo "Symlinking $file to ~/.$file"
+  ln -sf $PWD/$file ~/.$file
+done
+
+echo -e "\n\nBacked up old dotfiles to $backup"
+
+if [ ! -d ~/.keyboard ]; then
+  git clone https://github.com/jasonrudolph/keyboard.git ~/.keyboard
+  cd ~/.keyboard
+  script/setup
+fi
