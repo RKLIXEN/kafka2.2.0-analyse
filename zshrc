@@ -2,4 +2,4 @@
 export PATH=./bin:$HOME/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-exp
+export ZSH="$HOME/.oh-
