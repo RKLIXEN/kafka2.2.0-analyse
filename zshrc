@@ -10,4 +10,5 @@ export ZSH="$HOME/.oh-my-zsh"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="robbyrussell"
 
-# Set list of themes to pick from when loading at rando
+# Set list of themes to pick from when loading at random
+# Setting th
