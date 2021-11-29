@@ -11,4 +11,4 @@ export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 
 # Set list of themes to pick from when loading at random
-# Setting th
+# Setting this variable 
