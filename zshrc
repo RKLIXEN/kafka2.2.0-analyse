@@ -16,4 +16,5 @@ ZSH_THEME="robbyrussell"
 # If set to an empty array, this variable will have no effect.
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
 
-# Uncomment the following line to use case-sensitive 
+# Uncomment the following line to use case-sensitive completion.
+# CASE_SEN
