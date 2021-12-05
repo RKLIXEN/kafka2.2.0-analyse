@@ -19,4 +19,5 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
-# Uncomment the following line to use hyphen-insensitive completion
+# Uncomment the following line to use hyphen-insensitive completion.
+# Case-sensi
