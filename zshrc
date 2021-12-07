@@ -20,4 +20,4 @@ ZSH_THEME="robbyrussell"
 # CASE_SENSITIVE="true"
 
 # Uncomment the following line to use hyphen-insensitive completion.
-# Case-sensitive completion must be off. _ and 
+# Case-sensitive completion must be off. _ and - will be in
