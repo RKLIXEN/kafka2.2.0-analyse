@@ -24,4 +24,5 @@ ZSH_THEME="robbyrussell"
 # HYPHEN_INSENSITIVE="true"
 
 # Uncomment one of the following lines to change the auto-update behavior
-# zstyle ':omz:update' mode disabled  # disable automatic upd
+# zstyle ':omz:update' mode disabled  # disable automatic updates
+# zsty
