@@ -29,4 +29,6 @@ ZSH_THEME="robbyrussell"
 # zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 
 # Uncomment the following line to change how often to auto-update (in days).
-# zstyle ':omz:update' frequency 
+# zstyle ':omz:update' frequency 13
+
+# Uncomment th
