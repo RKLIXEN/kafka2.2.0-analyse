@@ -31,4 +31,4 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line to change how often to auto-update (in days).
 # zstyle ':omz:update' frequency 13
 
-# Uncomment th
+# Uncomment the following line i
