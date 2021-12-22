@@ -32,4 +32,4 @@ ZSH_THEME="robbyrussell"
 # zstyle ':omz:update' frequency 13
 
 # Uncomment the following line if pasting URLs and other text is messed up.
-# 
+# DISABLE_MAGIC_FU
