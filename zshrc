@@ -34,4 +34,5 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line if pasting URLs and other text is messed up.
 # DISABLE_MAGIC_FUNCTIONS="true"
 
-# Uncomment the following line to disable colors i
+# Uncomment the following line to disable colors in ls.
+# DI
