@@ -35,4 +35,4 @@ ZSH_THEME="robbyrussell"
 # DISABLE_MAGIC_FUNCTIONS="true"
 
 # Uncomment the following line to disable colors in ls.
-# DI
+# DISABLE_LS_COL
