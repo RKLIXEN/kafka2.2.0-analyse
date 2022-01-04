@@ -37,4 +37,4 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line to disable colors in ls.
 # DISABLE_LS_COLORS="true"
 
-# Uncomment the following line to disable auto-setting term
+# Uncomment the following line to disable auto-setting terminal title.
