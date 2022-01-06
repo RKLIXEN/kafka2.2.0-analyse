@@ -40,4 +40,4 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line to disable auto-setting terminal title.
 # DISABLE_AUTO_TITLE="true"
 
-# Uncomment the following line to enable comman
+# Uncomment the following line to enable command auto-correct
