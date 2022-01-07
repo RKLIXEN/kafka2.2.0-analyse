@@ -43,4 +43,4 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line to enable command auto-correction.
 # ENABLE_CORRECTION="true"
 
-# Unco
+# Uncomment the
