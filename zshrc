@@ -45,4 +45,4 @@ ZSH_THEME="robbyrussell"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # You can also set it to another string to have that shown instead of the default red dots.
-# e.g. COM
+# e.g. COMPLETION_WAITING
