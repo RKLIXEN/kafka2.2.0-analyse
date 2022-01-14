@@ -49,4 +49,4 @@ ZSH_THEME="robbyrussell"
 # Caution: this setting can cause issues with multiline prompts in zsh < 5.7.1 (see #5765)
 # COMPLETION_WAITING_DOTS="true"
 
-# Uncomment the following line if you want to disable markin
+# Uncomment the following line if you want to disable marking untracked files
