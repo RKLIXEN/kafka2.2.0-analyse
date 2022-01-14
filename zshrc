@@ -50,3 +50,4 @@ ZSH_THEME="robbyrussell"
 # COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
+# under VCS 
