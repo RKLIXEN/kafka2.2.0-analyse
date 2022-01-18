@@ -54,4 +54,4 @@ ZSH_THEME="robbyrussell"
 # much, much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
-# Uncomment the following line if yo
+# Uncomment the following line if you want to cha
