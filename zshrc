@@ -56,4 +56,5 @@ ZSH_THEME="robbyrussell"
 
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
-# You can set one of the optional thr
+# You can set one of the optional three formats:
+# "mm/
