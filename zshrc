@@ -59,4 +59,5 @@ ZSH_THEME="robbyrussell"
 # You can set one of the optional three formats:
 # "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
 # or set a custom format using the strftime function format specifications,
-# see 'man strftime' for deta
+# see 'man strftime' for details.
+# HIST_ST
