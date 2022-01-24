@@ -58,4 +58,4 @@ ZSH_THEME="robbyrussell"
 # stamp shown in the history command output.
 # You can set one of the optional three formats:
 # "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
-# or set a custom format using the strftime functio
+# or set a custom format using the strftime function format sp
