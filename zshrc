@@ -62,4 +62,4 @@ ZSH_THEME="robbyrussell"
 # see 'man strftime' for details.
 # HIST_STAMPS="mm/dd/yyyy"
 
-# Would you like to use another custom fold
+# Would you like to use another custom folder than $ZS
