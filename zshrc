@@ -63,4 +63,6 @@ ZSH_THEME="robbyrussell"
 # HIST_STAMPS="mm/dd/yyyy"
 
 # Would you like to use another custom folder than $ZSH/custom?
-# ZSH_CUSTOM=/path/to/new-custom
+# ZSH_CUSTOM=/path/to/new-custom-folder
+
+# W
