@@ -66,4 +66,5 @@ ZSH_THEME="robbyrussell"
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
 # Which plugins would you like to load?
-# Standard plugins can be found in
+# Standard plugins can be found in $ZSH/plugins/
+# 
