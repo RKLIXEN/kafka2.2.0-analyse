@@ -76,4 +76,6 @@ plugins=(
   dotenv
   macos
   rake
+  rbenv
+  ruby
  
