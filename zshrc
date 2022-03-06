@@ -79,4 +79,5 @@ plugins=(
   rbenv
   ruby
   brew
-  herok
+  heroku
+  magic-ente
