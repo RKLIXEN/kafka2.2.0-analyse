@@ -78,4 +78,5 @@ plugins=(
   rake
   rbenv
   ruby
- 
+  brew
+  herok
