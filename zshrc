@@ -80,4 +80,5 @@ plugins=(
   ruby
   brew
   heroku
-  magic-ente
+  magic-enter
+  rand-quot
