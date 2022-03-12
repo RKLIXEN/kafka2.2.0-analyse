@@ -81,4 +81,6 @@ plugins=(
   brew
   heroku
   magic-enter
-  rand-quot
+  rand-quote
+  vscode
+ 
