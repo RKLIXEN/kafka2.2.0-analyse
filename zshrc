@@ -83,4 +83,5 @@ plugins=(
   magic-enter
   rand-quote
   vscode
- 
+  yarn
+  com
