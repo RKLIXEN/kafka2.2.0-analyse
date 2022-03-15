@@ -84,4 +84,4 @@ plugins=(
   rand-quote
   vscode
   yarn
-  command-not-
+  command-not-found
