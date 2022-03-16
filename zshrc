@@ -85,3 +85,6 @@ plugins=(
   vscode
   yarn
   command-not-found
+)
+
+source $
