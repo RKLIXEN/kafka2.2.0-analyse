@@ -87,4 +87,4 @@ plugins=(
   command-not-found
 )
 
-source $
+source $ZSH/oh-my-zsh.
