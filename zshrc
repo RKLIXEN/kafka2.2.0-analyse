@@ -91,4 +91,4 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-# exp
+# export MANPATH=
