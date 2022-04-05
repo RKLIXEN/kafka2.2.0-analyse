@@ -93,4 +93,4 @@ source $ZSH/oh-my-zsh.sh
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
-# You may need to manu
+# You may need to manually set your langu
