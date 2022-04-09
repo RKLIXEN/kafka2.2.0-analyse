@@ -97,4 +97,4 @@ source $ZSH/oh-my-zsh.sh
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -
+# if [[ -n $SSH_CONNEC
