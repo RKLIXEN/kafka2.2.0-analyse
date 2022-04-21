@@ -103,4 +103,5 @@ source $ZSH/oh-my-zsh.sh
 #   export EDITOR='mvim'
 # fi
 
-# Compilat
+# Compilation flags
+# export AR
