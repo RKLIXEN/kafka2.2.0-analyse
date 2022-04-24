@@ -104,4 +104,4 @@ source $ZSH/oh-my-zsh.sh
 # fi
 
 # Compilation flags
-# export AR
+# export ARCHFLAGS=
