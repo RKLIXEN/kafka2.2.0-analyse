@@ -104,4 +104,4 @@ source $ZSH/oh-my-zsh.sh
 # fi
 
 # Compilation flags
-# export ARCHFLAGS=
+# export ARCHFLAGS="-arch x86_6
