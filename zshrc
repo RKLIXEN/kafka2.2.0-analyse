@@ -106,4 +106,4 @@ source $ZSH/oh-my-zsh.sh
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-# Set personal aliases, overr
+# Set personal aliases, overriding those provide
