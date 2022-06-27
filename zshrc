@@ -113,4 +113,5 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 alias zshconfig="code ~/.zshrc"
-alias ohmyzsh="code ~/.o
+alias ohmyzsh="code ~/.oh-my-zsh"
+alia
