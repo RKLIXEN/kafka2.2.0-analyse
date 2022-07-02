@@ -114,4 +114,5 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
-alias ss='script/server
+alias ss='script/server'
+alias sb='s
