@@ -115,4 +115,5 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
 alias ss='script/server'
-alias sb='script/bootst
+alias sb='script/bootstrap'
+alias s
