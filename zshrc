@@ -118,4 +118,4 @@ alias ss='script/server'
 alias sb='script/bootstrap'
 alias st='script/test'
 alias a='code .'
-al
+alias e='code
