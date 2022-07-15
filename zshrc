@@ -119,4 +119,5 @@ alias sb='script/bootstrap'
 alias st='script/test'
 alias a='code .'
 alias e='code .'
-alias repos='cd ~/Dropbox/r
+alias repos='cd ~/Dropbox/repos'
+al
