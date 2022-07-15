@@ -116,4 +116,5 @@ alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
 alias ss='script/server'
 alias sb='script/bootstrap'
-alias st='scri
+alias st='script/test'
+alias a
