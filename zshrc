@@ -120,4 +120,6 @@ alias st='script/test'
 alias a='code .'
 alias e='code .'
 alias repos='cd ~/Dropbox/repos'
-alias clone='cd ~/Dropbox/repos && git clo
+alias clone='cd ~/Dropbox/repos && git clone $1'
+
+#
