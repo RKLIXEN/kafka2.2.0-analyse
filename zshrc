@@ -122,4 +122,5 @@ alias e='code .'
 alias repos='cd ~/Dropbox/repos'
 alias clone='cd ~/Dropbox/repos && git clone $1'
 
-# Configure completions for H
+# Configure completions for Homebrew
+if typ
