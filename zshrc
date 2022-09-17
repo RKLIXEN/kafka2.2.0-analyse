@@ -123,4 +123,6 @@ alias repos='cd ~/Dropbox/repos'
 alias clone='cd ~/Dropbox/repos && git clone $1'
 
 # Configure completions for Homebrew
-if type brew &>/dev
+if type brew &>/dev/null
+then
+  FPA
