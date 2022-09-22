@@ -125,4 +125,4 @@ alias clone='cd ~/Dropbox/repos && git clone $1'
 # Configure completions for Homebrew
 if type brew &>/dev/null
 then
-  FPATH="$(brew --p
+  FPATH="$(brew --prefix)/share/zs
