@@ -127,4 +127,5 @@ if type brew &>/dev/null
 then
   FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 
-  autoload -Uz c
+  autoload -Uz compinit
+  compi
