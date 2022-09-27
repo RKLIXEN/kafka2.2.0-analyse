@@ -128,4 +128,7 @@ then
   FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 
   autoload -Uz compinit
-  compi
+  compinit
+fi
+
+# Set
