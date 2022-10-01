@@ -131,4 +131,4 @@ then
   compinit
 fi
 
-# Set
+# Setup nod
