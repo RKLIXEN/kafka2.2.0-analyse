@@ -131,4 +131,5 @@ then
   compinit
 fi
 
-# Setup nodenv and rbe
+# Setup nodenv and rbenv
+if which
