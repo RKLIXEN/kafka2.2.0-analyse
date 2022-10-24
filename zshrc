@@ -132,4 +132,4 @@ then
 fi
 
 # Setup nodenv and rbenv
-if which
+if which nodenv > 
