@@ -132,4 +132,5 @@ then
 fi
 
 # Setup nodenv and rbenv
-if which nodenv > /dev/null; then eval "$(nodenv init -
+if which nodenv > /dev/null; then eval "$(nodenv init -)"; fi
+if
