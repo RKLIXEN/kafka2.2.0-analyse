@@ -136,4 +136,4 @@ if which nodenv > /dev/null; then eval "$(nodenv init -)"; fi
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 # Setup asdf so it works
-. /opt/homebrew/opt/asdf/libe
+. /opt/homebrew/opt/asdf/libexec/asdf.sh
