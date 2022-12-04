@@ -138,4 +138,4 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 # Setup asdf so it works
 . /opt/homebrew/opt/asdf/libexec/asdf.sh
 
-# PAS
+# PASSWORD
