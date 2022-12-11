@@ -139,4 +139,4 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 . /opt/homebrew/opt/asdf/libexec/asdf.sh
 
 # PASSWORD GENERATOR
-# https://blog.sleeple
+# https://blog.sleeplessbeastie
