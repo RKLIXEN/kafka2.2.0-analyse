@@ -140,3 +140,4 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 # PASSWORD GENERATOR
 # https://blog.sleeplessbeastie.eu/2016/04/11/how-to-generate-random-password-using-command-line/
+generate_passwo
