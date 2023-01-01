@@ -143,4 +143,4 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 generate_password() {
   ARG1=${1:-20}
   ((test -n "$ARG1" && test "$ARG1" -ge 0) && \
-    openss
+    openssl rand -base64 
