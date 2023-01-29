@@ -146,4 +146,6 @@ generate_password() {
     openssl rand -base64 $ARG1 | colrm $(expr $ARG1 + 1)) | tr -d '\n' | pbcopy;
   echo $(pbpaste);
 };
-alias pass=generate_passwor
+alias pass=generate_password
+
+# Setup editor 
