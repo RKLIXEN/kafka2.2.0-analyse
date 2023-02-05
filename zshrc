@@ -148,4 +148,5 @@ generate_password() {
 };
 alias pass=generate_password
 
-# Setup editor for various
+# Setup editor for various things
+export 
