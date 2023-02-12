@@ -149,4 +149,4 @@ generate_password() {
 alias pass=generate_password
 
 # Setup editor for various things
-export EDITOR='c
+export EDITOR='code --new-windo
