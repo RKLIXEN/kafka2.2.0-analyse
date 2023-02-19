@@ -150,4 +150,5 @@ alias pass=generate_password
 
 # Setup editor for various things
 export EDITOR='code --new-window --wait'
-export BUNDLER_EDITOR='code --
+export BUNDLER_EDITOR='code --new-window'
+ex
